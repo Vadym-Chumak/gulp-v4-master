@@ -1,1 +1,5 @@
-# gulp-v4-master
+#### Installation
+- > npm i
+
+#### Development
+- > gulp dev
